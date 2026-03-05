@@ -1,24 +1,20 @@
-# 👋 안녕하세요, 준비된 백엔드 개발자 오창엽입니다!
+# 안녕하세요, 백엔드 개발자 오창엽입니다
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Changyeop's%20Portfolio&fontSize=70" />
-</p>
 
 ## 🦁 About Me
 - 🎓 **서강대학교** 아트&테크놀로지 | 컴퓨터공학 복수전공
 - 💻 **멋쟁이사자처럼 서강 10기** 백엔드 수료
 - **CNU 웹 개발 학회** 백엔드 활동
-- 🎨 기획부터 디자인, 백엔드 구현까지 가능한 **융합형 개발자**입니다.
 
 ---
 
 ## 🔗 Quick Links
 <div align="center">
   <a href="https://www.notion.so/25a91388755280c38ca4f82db6398a41?v=25a91388755280c6b719000cd8c3479c&source=copy_link">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> -->
   </a>
   <a href="mailto:dhckd3714@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> -->
   </a>
 </div>
 
@@ -41,7 +37,8 @@
 
 ---
 
-## 🚀 Recent Projects
-* **개인 사이드 프로젝트 (진행 중):** Spring Boot를 활용한 API 서버 구축
-* **공군 창업경진대회 [수상명]:** 서비스 기획 및 UI/UX 디자인 담당
-* **멋쟁이사자처럼 10기:** Django 기반 웹 서비스 [프로젝트 이름] 개발
+## 🚀 Projects
+* **CNU 사이드 프로젝트** Spring Boot를 활용한 블로그 개발
+* **Find Me : 나를 찾아줘** 유니티 기반 AR 스토리 게임 개발, 2022 GIGDC 인디게임경진대회 은상 수상
+* **Fin.Trip : 로컬 여행 SNS:** 서비스 기획 및 피그마 기반 UI/UX 디자인 담당, 공군 창업경진대회 장려상 수상
+* **점메추 : 오늘의 점심 메뉴는?** Django 기반 웹 서비스 개발, 멋쟁이 사자처럼 백엔드 10기
