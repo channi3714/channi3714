@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 안녕하세요, 준비된 백엔드 개발자 오창엽입니다!
 
-<!--
-**channi3714/channi3714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Changyeop's%20Portfolio&fontSize=70" />
+</p>
 
-Here are some ideas to get you started:
+## 🦁 About Me
+- 🎓 **서강대학교** 아트&테크놀로지 | 컴퓨터공학 복수전공
+- 💻 **멋쟁이사자처럼 서강 10기** 백엔드 수료
+- **CNU 웹 개발 학회** 백엔드 활동
+- 🎨 기획부터 디자인, 백엔드 구현까지 가능한 **융합형 개발자**입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Quick Links
+<div align="center">
+  <a href="https://www.notion.so/25a91388755280c38ca4f82db6398a41?v=25a91388755280c6b719000cd8c3479c&source=copy_link">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+  <a href="mailto:dhckd3714@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🛠 Tech Stacks
+### 💻 Backend & Language
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+
+### 🎨 Design & Tools
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+---
+
+## 📈 My Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[channi3714]&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[channi3714]&theme=radical" />
+</p>
+
+---
+
+## 🚀 Recent Projects
+* **개인 사이드 프로젝트 (진행 중):** Spring Boot를 활용한 API 서버 구축
+* **공군 창업경진대회 [수상명]:** 서비스 기획 및 UI/UX 디자인 담당
+* **멋쟁이사자처럼 10기:** Django 기반 웹 서비스 [프로젝트 이름] 개발
