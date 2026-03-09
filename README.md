@@ -40,4 +40,3 @@
 
 ## ✉️ Contact
 - **Email:** [dhckd3714@gmail.com](mailto:dhckd3714@gmail.com)
-- **Notion:** [Portfolio Link](https://www.notion.so/25a91388755280c38ca4f82db6398a41?v=25a91388755280c6b719000cd8c3479c&source=copy_link)
