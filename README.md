@@ -20,7 +20,7 @@
 ## 📈 My Activity
 ### 📂 Notion Archives
 - 🚀 [**전체 프로젝트 포트폴리오**](https://www.notion.so/25a91388755280c38ca4f82db6398a41?v=25a91388755280c6b719000cd8c3479c&source=copy_link)
-- 📖 [**개인 학습 및 스터디 기록**](여기에_스터디_노션_링크_복사)
+- 📖 [**개인 학습 및 스터디 기록**](https://www.notion.so/25d9138875528033abdee13bafe5b66c?v=25d91388755281de8651000c93b05c50&source=copy_link)
 
 ### 📊 Github Stats
 <p align="left">
