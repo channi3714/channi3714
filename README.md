@@ -3,6 +3,7 @@
 ## 🦁 About Me
 - 🎓 **서강대학교** 아트&테크놀로지 | 컴퓨터공학 복수전공
 - 💻 **멋쟁이사자처럼 서강 10기** 백엔드 수료
+- 🛡️ **SINE 보안학회 1기** 활동 중
 - 📚 **CNU 웹 개발 학회** 백엔드 활동 중
 
 ---
@@ -19,11 +20,11 @@
 ## 📈 My Activity
 ### 📂 Notion Archives
 - 🚀 [**전체 프로젝트 포트폴리오**](https://www.notion.so/25a91388755280c38ca4f82db6398a41?v=25a91388755280c6b719000cd8c3479c&source=copy_link)
-- 📖 [**개인 학습 및 스터디 기록**](https://www.notion.so/25d9138875528033abdee13bafe5b66c?v=25d91388755281de8651000c93b05c50&source=copy_link)
+- 📖 [**개인 학습 및 스터디 기록**](여기에_스터디_노션_링크_복사)
 
 ### 📊 Github Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=channi3714&show_icons=true&theme=radical" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=channi3714&show_icons=true&theme=radical" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=channi3714&theme=radical" />
 </p>
 
@@ -39,3 +40,4 @@
 
 ## ✉️ Contact
 - **Email:** [dhckd3714@gmail.com](mailto:dhckd3714@gmail.com)
+- **Notion:** [Portfolio Link](https://www.notion.so/25a91388755280c38ca4f82db6398a41?v=25a91388755280c6b719000cd8c3479c&source=copy_link)
